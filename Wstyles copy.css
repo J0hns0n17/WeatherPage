@@ -1,0 +1,16 @@
+body {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.section {
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+img {
+  width:200px; 
+  height:200px;
+  border-width:5px;  
+  border-style:dotted;
+  border-color: grey;
+}
